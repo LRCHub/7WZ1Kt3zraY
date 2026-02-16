@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Pale Blue",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-16T05:53:49.294882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/01_Pale_Blue_Eyes_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pale Blue",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_Pale_Blue_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pale Blue Sky",
+      "artist": "Cranes",
+      "has_synced": true,
+      "path": "select/03_Pale_Blue_Sky_Cranes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pale Blue Dot",
+      "artist": "TWRP",
+      "has_synced": true,
+      "path": "select/04_Pale_Blue_Dot_TWRP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pale Blue Dot",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/05_Pale_Blue_Dot_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pale Blue",
+      "artist": "MARINA",
+      "has_synced": false,
+      "path": "select/06_Pale_Blue_MARINA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/07_Pale_Blue_Eyes_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/08_Pale_Blue_Eyes_Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From A Pale Blue Rosary",
+      "artist": "Trembling Blue Stars",
+      "has_synced": false,
+      "path": "select/09_From_A_Pale_Blue_Rosary_Trembling_Blue_Stars.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/10_Pale_Blue_Eyes_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/11_Pale_Blue_Eyes_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes - Closet Mix",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/12_Pale_Blue_Eyes_-_Closet_Mix_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes (Closet Mix)",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/13_Pale_Blue_Eyes_(Closet_Mix)_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes (1969)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/14_Pale_Blue_Eyes_(1969)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pale Blue Eyes - Mono Version",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/15_Pale_Blue_Eyes_-_Mono_Version_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pale White",
+      "artist": "Yann Tiersen & Shannon Wright",
+      "has_synced": true,
+      "path": "select/16_Pale_White_Yann_Tiersen_&_Shannon_Wright.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Meter, Pale, Tone",
+      "artist": "Mount Kimbie",
+      "has_synced": false,
+      "path": "select/17_Meter,_Pale,_Tone_Mount_Kimbie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pale Green Things",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/18_Pale_Green_Things_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pale Horses",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/19_Pale_Horses_Moby.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Pale Horses - Ambient",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/20_Pale_Horses_-_Ambient_Moby.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Pale Horses (Ambient Version)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/21_Pale_Horses_(Ambient_Version)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Pale Horses - Gui Boratto's Last Window Remix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/22_Pale_Horses_-_Gui_Boratto's_Last_Window_Remix_Moby.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Pale Horses (Gui Boratto's Last Window Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/23_Pale_Horses_(Gui_Boratto's_Last_Window_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Pale Lights",
+      "artist": "Mount Eerie",
+      "has_synced": false,
+      "path": "select/24_Pale_Lights_Mount_Eerie.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Pale Grass Blue",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/25_Pale_Grass_Blue_Enya.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Pale Grass Blue",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/26_Pale_Grass_Blue_Enya.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Pale Interior",
+      "artist": "Grouper",
+      "has_synced": true,
+      "path": "select/27_Pale_Interior_Grouper.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Pale Movie",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/28_Pale_Movie_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Pale Movie (Lemonentry mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/29_Pale_Movie_(Lemonentry_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PaleBlue",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_PaleBlue_米津玄師.txt"
+    }
+  ]
+}
